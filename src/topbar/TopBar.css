@@ -1,0 +1,40 @@
+.top-bar {
+  position: fixed;
+  color: white;
+}
+
+#navbar {
+  overflow: hidden;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  background-position: top;
+  z-index: 1;
+  }
+  
+.navbar-first {
+  margin-right: auto;
+  padding-left: 50px !important;
+}
+
+.navbar-last {
+  font-family: 'Gill Sans';
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  padding-right: 20px !important;
+}
+
+#navbar a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
