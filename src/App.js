@@ -11,6 +11,15 @@ import TopBar from "./topbar/TopBar";
           <div className="title">
             The Phantom of the Disco
           </div>
+          
+          <div className="logline">
+          In the wake of a devastating pandemic, a struggling 
+          Shakespeare festival takes an unconventional path 
+          to stay afloat by producing ABBA musicals. However, 
+          their choice angers the ghost of Shakespeare himself, 
+          who returns to haunt the theater in hilarious and 
+          unexpected ways.
+          </div>
         </div>
 
         <div className="footer">
