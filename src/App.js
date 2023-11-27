@@ -1,4 +1,6 @@
-  import "./App.css";
+  import Act1Scene1 from "./a1s1/Act1Scene1";
+import Act1Scene2 from "./a1s2/Act1Scene2";
+import "./App.css";
 import TopBar from "./topbar/TopBar";
 
   function App() {
@@ -8,10 +10,10 @@ import TopBar from "./topbar/TopBar";
         <TopBar />
 
         <div className="title-content">
-          <div className="title">
+          <div className="title" id="Top">
             The Phantom of the Disco
           </div>
-          
+
           <div className="logline">
           In the wake of a devastating pandemic, a struggling 
           Shakespeare festival takes an unconventional path 
@@ -21,6 +23,9 @@ import TopBar from "./topbar/TopBar";
           unexpected ways.
           </div>
         </div>
+
+        <Act1Scene1 />
+        <Act1Scene2 />
 
         <div className="footer">
           <p>Made with love in Providence</p>
