@@ -1,5 +1,6 @@
   import Act1Scene1 from "./a1s1/Act1Scene1";
 import Act1Scene2 from "./a1s2/Act1Scene2";
+import Act1Scene3 from "./a1s3/Act1Scene3";
 import "./App.css";
 import TopBar from "./topbar/TopBar";
 
@@ -26,6 +27,7 @@ import TopBar from "./topbar/TopBar";
 
         <Act1Scene1 />
         <Act1Scene2 />
+        <Act1Scene3 />
 
         <div className="footer">
           <p>Made with love in Providence</p>
