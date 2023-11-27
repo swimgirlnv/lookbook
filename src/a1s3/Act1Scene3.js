@@ -53,8 +53,7 @@ function Act1Scene3() {
       </div>
 
       <div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/gfIG-L73yS8?si=TFvvlnJDpj1U402H&amp;start=25" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      
-      </div>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/gfIG-L73yS8?si=C6tmDQgKsiR_3Rew&amp;start=75" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      </div>
 
       <div className="text-bright">
         But in the excitement of pitching... Kylie lets a "Macbeth" slip...
